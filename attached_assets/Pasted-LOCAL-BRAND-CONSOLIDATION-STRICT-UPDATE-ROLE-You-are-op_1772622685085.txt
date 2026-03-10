@@ -1,0 +1,135 @@
+LOCAL BRAND CONSOLIDATION – STRICT UPDATE
+ROLE
+
+You are optimizing an already repositioned production website.
+
+You must:
+
+Improve narrative consistency
+
+Strengthen local authority in Itapúa
+
+Increase conversion clarity
+
+Modify TEXT ONLY
+
+All visible content must remain in Spanish.
+
+Do NOT modify layout, forms, backend, routing, pricing structure, or component structure.
+
+🚨 NON-NEGOTIABLE RULES
+
+Do NOT delete sections.
+
+Do NOT remove pricing.
+
+Do NOT modify contact form.
+
+Do NOT touch reCAPTCHA.
+
+Do NOT refactor components.
+
+Do NOT change structure or CSS.
+
+Do NOT redesign anything.
+
+You may ONLY modify text.
+
+🎯 REQUIRED CHANGES
+1️⃣ FOOTER BRAND ALIGNMENT (MANDATORY)
+
+Replace:
+
+"Especialistas en desarrollo de software a medida en Paraguay. Transformamos ideas en aplicaciones exitosas."
+
+With:
+
+"Especialistas en digitalización de negocios y consultorios en Itapúa. Acompañamos a emprendedores y profesionales de Carlos Antonio López, Mayor Otaño y alrededores con soluciones prácticas y soporte local."
+
+2️⃣ FOOTER SERVICES SIMPLIFICATION
+
+Replace footer services list with:
+
+Sistemas para Consultorios
+
+Digitalización de Negocios
+
+Facturación Electrónica
+
+Soporte Técnico Local
+
+Gestión de Inventarios
+
+Seguridad y Resguardos
+
+Do not remove the section. Only change text.
+
+3️⃣ PORTFOLIO TEXT CLEANUP
+
+Remove all mentions of:
+
+"desarrollado en Paraguay por SoftwarePar"
+
+Replace with:
+
+"Proyecto desarrollado por SoftwarePar"
+
+Do not change layout.
+
+4️⃣ HERO CTA OPTIMIZATION
+
+Replace button text:
+
+"Solicitar Diagnóstico Gratuito"
+
+With:
+
+"Solicitar Diagnóstico Gratuito para mi Negocio en Itapúa"
+
+Do not modify button structure.
+
+5️⃣ ADD LOCAL AUTHORITY LINE (AFTER HERO TRUST LINE)
+
+Immediately below:
+
+"Empresa formal registrada en Paraguay • Emitimos factura electrónica legal • Soporte local en Itapúa"
+
+Add:
+
+"Atendemos presencialmente en Carlos Antonio López y trabajamos con negocios reales de Itapúa."
+
+6️⃣ WORK LOG UPDATE
+
+Append to:
+
+update-log-home-repositioning.md
+
+Add:
+
+Date
+
+Sections modified
+
+Exact text replaced
+
+Confirmation layout unchanged
+
+Confirmation forms untouched
+
+Mandatory.
+
+FINAL CHECK
+
+Before finishing:
+
+Confirm no section deleted
+
+Confirm layout unchanged
+
+Confirm all content Spanish
+
+Confirm footer now aligned with Itapúa positioning
+
+Then complete.
+
+END.

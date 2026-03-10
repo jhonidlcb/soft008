@@ -1,0 +1,100 @@
+Fix SEO meta tags across the entire website.
+
+IMPORTANT:
+Currently all pages use the same SEO meta tags and canonical URL.
+
+This causes duplicate titles and wrong canonical indexing in Google.
+
+Do NOT change the design or layout of the website.
+Only fix SEO metadata.
+
+---
+
+1. REMOVE GLOBAL STATIC TITLE
+
+The current layout defines this title globally:
+
+<title>Sistema de Turnos Online en Itapúa | SoftwarePar</title>
+
+Remove this global title.
+
+Each page must define its own <title> tag.
+
+---
+
+2. SET UNIQUE TITLES PER PAGE
+
+Home (/)
+Software y Sistemas para Negocios en Itapúa | SoftwarePar
+
+/digitalizacion-de-negocios-en-itapua
+Digitalización de Negocios en Itapúa | Sistemas y Automatización | SoftwarePar
+
+/facturacion-electronica-sifen-itapua
+Facturación Electrónica SIFEN en Itapúa | Implementación DNIT | SoftwarePar
+
+/sistema-de-turnos-en-itapua
+Sistema de Turnos Online para Consultorios en Itapúa | SoftwarePar
+
+/software-para-consultorios-en-itapua
+Software para Consultorios en Itapúa | Gestión de Pacientes | SoftwarePar
+
+/desarrollo-web-en-itapua
+Desarrollo Web Profesional en Itapúa | Páginas para Negocios | SoftwarePar
+
+---
+
+3. FIX CANONICAL URL
+
+Currently all pages have:
+
+<link rel="canonical" href="https://softwarepar.lat" />
+
+This is incorrect.
+
+Each page must have its own canonical URL.
+
+Example:
+
+Home
+
+<link rel="canonical" href="https://softwarepar.lat/" />
+
+Digitalización
+
+<link rel="canonical" href="https://softwarepar.lat/digitalizacion-de-negocios-en-itapua" />
+
+Facturación
+
+<link rel="canonical" href="https://softwarepar.lat/facturacion-electronica-sifen-itapua" />
+
+Turnos
+
+<link rel="canonical" href="https://softwarepar.lat/sistema-de-turnos-en-itapua" />
+
+Consultorios
+
+<link rel="canonical" href="https://softwarepar.lat/software-para-consultorios-en-itapua" />
+
+Desarrollo Web
+
+<link rel="canonical" href="https://softwarepar.lat/desarrollo-web-en-itapua"
+
+---
+
+4. KEEP ALL OTHER META TAGS
+
+Do NOT remove:
+
+Open Graph
+Twitter meta
+Schema JSON
+Geo tags
+
+Only fix title and canonical per page.
+
+---
+
+GOAL
+
+Eliminate duplicate titles and incorrect canonical tags so Google can properly index each page.

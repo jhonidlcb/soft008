@@ -1,0 +1,146 @@
+TASK: Fix SEO issues and internal linking for the website https://softwarepar.lat
+
+IMPORTANT RULES:
+
+* Do NOT change the design or layout.
+* Do NOT modify styles, colors, spacing or components.
+* Only fix SEO titles and internal links.
+* Keep the current visual appearance exactly the same.
+
+---
+
+1. FIX DUPLICATE PAGE TITLES
+
+Currently all pages use the same title:
+"Sistema de Turnos Online en Itapúa | SoftwarePar"
+
+Each page must have a unique SEO title.
+
+Update the <title> tag of each page as follows:
+
+HOME PAGE
+/
+Title:
+Software y Sistemas para Negocios en Itapúa | SoftwarePar
+
+---
+
+DIGITALIZACIÓN DE NEGOCIOS
+/digitalizacion-de-negocios-en-itapua
+Title:
+Digitalización de Negocios en Itapúa | Sistemas y Automatización | SoftwarePar
+
+---
+
+FACTURACIÓN ELECTRÓNICA
+/facturacion-electronica-sifen-itapua
+Title:
+Facturación Electrónica SIFEN en Itapúa | Implementación DNIT | SoftwarePar
+
+---
+
+SISTEMA DE TURNOS
+/sistema-de-turnos-en-itapua
+Title:
+Sistema de Turnos Online para Consultorios en Itapúa | SoftwarePar
+
+---
+
+SOFTWARE PARA CONSULTORIOS
+/software-para-consultorios-en-itapua
+Title:
+Software para Consultorios en Itapúa | Gestión de Pacientes y Turnos | SoftwarePar
+
+---
+
+DESARROLLO WEB
+/desarrollo-web-en-itapua
+Title:
+Desarrollo Web Profesional en Itapúa | Páginas Web para Negocios | SoftwarePar
+
+---
+
+2. ADD PROPER SEO H1 HEADINGS
+
+Ensure each page has exactly ONE H1 heading that matches the topic of the page.
+
+Example:
+
+Home:
+H1 → "Sistemas y Soluciones Digitales para Negocios en Itapúa"
+
+Digitalización:
+H1 → "Digitalización de Negocios en Itapúa"
+
+Facturación:
+H1 → "Facturación Electrónica SIFEN en Itapúa"
+
+Turnos:
+H1 → "Sistema de Turnos Online para Consultorios en Itapúa"
+
+Consultorios:
+H1 → "Software para Consultorios y Clínicas en Itapúa"
+
+Desarrollo Web:
+H1 → "Desarrollo Web Profesional para Negocios en Itapúa"
+
+---
+
+3. FIX INTERNAL LINKS ON HOMEPAGE SERVICE CARDS
+
+In the homepage section:
+
+"Soluciones Digitales para Negocios y Consultorios en Itapúa"
+
+Each service card must contain a proper HTML anchor link (<a href>) pointing to the correct page.
+
+Use NORMAL HTML LINKS.
+Do NOT use JavaScript navigation.
+
+Links must be:
+
+Digitalización de Negocios
+→ /digitalizacion-de-negocios-en-itapua
+
+Sistemas para Consultorios
+→ /software-para-consultorios-en-itapua
+
+Facturación Electrónica SIFEN
+→ /facturacion-electronica-sifen-itapua
+
+Sistema de Turnos en Itapúa
+→ /sistema-de-turnos-en-itapua
+
+Gestión de Inventarios
+→ /digitalizacion-de-negocios-en-itapua
+
+Seguridad y Resguardos
+→ /digitalizacion-de-negocios-en-itapua
+
+Example implementation:
+
+<a href="/sistema-de-turnos-en-itapua">
+Sistema de Turnos en Itapúa
+</a>
+
+---
+
+4. DO NOT MODIFY DESIGN
+
+Important:
+
+* Do not change the layout
+* Do not change the UI
+* Do not change the card structure
+* Only add proper anchor links and fix SEO titles
+
+---
+
+GOAL
+
+Fix the following SEO issues:
+
+• Duplicate title tags
+• Missing H1 headings
+• Improve internal linking from homepage
+• Help Google understand the structure of the website

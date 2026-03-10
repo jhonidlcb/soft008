@@ -1,0 +1,231 @@
+🔒 CONTROLLED CONTENT UPDATE – STRICT EXECUTION
+ROLE
+
+You are updating an existing production website.
+
+Your task is to modify TEXT CONTENT ONLY.
+
+All visible website content must remain in SPANISH.
+
+Instructions are in English.
+Website content must be written in Spanish.
+
+🚨 CRITICAL NON-NEGOTIABLE RULES
+
+DO NOT delete any section.
+
+DO NOT remove the contact form.
+
+DO NOT modify form structure, fields, validation, or reCAPTCHA.
+
+DO NOT change layout, CSS, spacing, or component structure.
+
+DO NOT refactor components.
+
+DO NOT remove pricing cards.
+
+DO NOT touch backend logic.
+
+DO NOT modify routes.
+
+DO NOT alter database schema.
+
+DO NOT redesign anything.
+
+You may only:
+
+Modify text content
+
+Add small text blocks inside existing layout
+
+Insert ONE new section (as specified below)
+
+If unsure about something → DO NOT DELETE IT.
+
+🎯 OBJECTIVE
+
+Reposition the website from a generic software company in Paraguay to:
+
+“Especialistas en digitalización de negocios y consultorios en Itapúa”
+
+Focus on:
+
+Itapúa
+
+Carlos Antonio López
+
+Mayor Otaño
+
+Consultorios
+
+Negocios locales
+
+All new visible text MUST be written in Spanish.
+
+✅ EXACT CONTENT CHANGES (WRITE CONTENT IN SPANISH)
+1️⃣ HERO SECTION
+
+Replace current H1 with:
+
+"Digitalizamos Negocios y Consultorios en Itapúa con Sistemas Profesionales"
+
+Replace subtitle with:
+
+"En SoftwarePar ayudamos a negocios y consultorios en Carlos Antonio López, Mayor Otaño y todo Itapúa a organizar su gestión, aumentar sus ventas y modernizar su atención con sistemas profesionales y soluciones digitales adaptadas a la realidad local."
+
+DO NOT modify buttons.
+
+2️⃣ ADD TRUST LINE UNDER HERO BUTTONS
+
+Below hero buttons add this line in Spanish:
+
+"Empresa formal registrada en Paraguay • Emitimos factura electrónica legal • Soporte local en Itapúa"
+
+Do not remove metrics (50+, 98%, 24/7).
+
+3️⃣ INSERT NEW SECTION AFTER METRICS
+
+Immediately after the metrics block, insert a new section.
+
+Title:
+
+"Sistema de Turnos Online para Consultorios en Itapúa"
+
+Paragraph:
+
+"Moderniza la atención de tu consultorio con un sistema profesional de gestión de turnos. Organiza mejor tu agenda, reduce ausencias y mejora la experiencia de tus pacientes."
+
+Bullet points:
+
+Reservas online 24/7
+
+Confirmaciones automáticas por WhatsApp
+
+Pantalla para sala de espera
+
+Historial de pacientes
+
+Panel administrativo simple
+
+Reportes y control de ingresos
+
+Button:
+
+"Agendar Asesoría para mi Consultorio"
+
+Link to contact form anchor.
+
+Do not change styling.
+
+4️⃣ SERVICES SECTION TITLE
+
+Change:
+
+"Servicios de Desarrollo de Software en Paraguay"
+
+To:
+
+"Soluciones Digitales para Negocios y Consultorios en Itapúa"
+
+Reduce excessive technical wording inside service descriptions.
+Shift focus to business benefits instead of technologies.
+
+Keep all service cards.
+
+5️⃣ PORTFOLIO SECTION
+
+Change title to:
+
+"Proyectos que Impulsan Negocios en Itapúa"
+
+Change subtitle to:
+
+"Desarrollamos soluciones digitales adaptadas a la realidad comercial de Itapúa y la región."
+
+Do not remove projects.
+
+6️⃣ PLANS SECTION
+
+Change:
+
+"Planes de Desarrollo Web y Software en Paraguay"
+
+To:
+
+"Planes de Desarrollo Web y Sistemas en Itapúa"
+
+Change subtitle to:
+
+"Soluciones diseñadas para negocios y consultorios de Carlos Antonio López, Mayor Otaño y todo Itapúa."
+
+Do not delete pricing.
+
+Reduce unnecessary repetition of “Paraguay” inside this section only.
+
+7️⃣ FAQ SECTION
+
+Change title to:
+
+"Preguntas Frecuentes sobre Nuestros Servicios en Itapúa"
+
+Change subtitle to:
+
+"Resolvemos las dudas más comunes sobre desarrollo web, sistemas de turnos y digitalización de negocios en Itapúa."
+
+Do not delete questions.
+
+8️⃣ FOOTER TAGLINE
+
+Replace:
+
+"Innovación local, impacto global"
+
+With:
+
+"Digitalizamos negocios y consultorios en Itapúa con soluciones profesionales y soporte local."
+
+Do not remove RUC or legal info.
+
+📄 MANDATORY WORK LOG FILE
+
+Create a file in project root:
+
+update-log-home-repositioning.md
+
+This file must contain:
+
+Date of update
+
+Sections modified
+
+Exact Spanish text inserted
+
+Confirmation that no section was deleted
+
+Confirmation that contact form remains intact
+
+Confirmation layout was not modified
+
+Pending tasks (if any)
+
+If task fails partially, document what remains pending.
+
+This is mandatory.
+
+🔍 FINAL VERIFICATION
+
+Before finishing:
+
+Confirm form exists
+
+Confirm layout unchanged
+
+Confirm no section deleted
+
+Confirm all visible content is in Spanish
+
+Confirm no duplicated sections
+
+Then complete task.
+
+END.

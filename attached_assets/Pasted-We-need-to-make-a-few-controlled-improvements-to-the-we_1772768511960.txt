@@ -1,0 +1,187 @@
+We need to make a few controlled improvements to the website.
+
+IMPORTANT RULES:
+
+* Do NOT redesign the website.
+* Do NOT change colors, typography, layout, or spacing.
+* Do NOT modify existing sections of the homepage.
+* Do NOT modify existing pages.
+* Only add what is requested.
+* Keep the same design components already used in the site.
+
+---
+
+TASK 1 — FIX FOOTER LAYOUT
+
+Currently the footer had 3 columns and a fourth column "Recursos" was added.
+
+The layout still uses 3 columns, so the fourth column appears below the others.
+
+Fix the layout so the footer shows **4 columns in one row on desktop**.
+
+Columns must be:
+
+1. SoftwarePar
+2. Servicios
+3. Recursos
+4. Contacto
+
+If the footer uses CSS Grid, change:
+
+grid-cols-3 → grid-cols-4
+
+If it uses Flexbox, adjust widths so all 4 columns fit in the same row.
+
+Do NOT change styling.
+
+Mobile responsiveness must remain the same.
+
+---
+
+TASK 2 — CREATE PAGE
+
+Create this new page:
+
+/software-para-consultorios-en-itapua
+
+Use the SAME layout used in the other service pages.
+
+CONTENT (USE EXACT TEXT):
+
+TITLE
+Software para Consultorios en Itapúa
+
+INTRO TEXT
+Desarrollamos sistemas para consultorios médicos, clínicas y profesionales de la salud en Itapúa. Nuestro software permite gestionar pacientes, turnos, historiales y mejorar la organización del consultorio.
+
+SECTION
+¿Qué incluye el sistema para consultorios?
+
+• Gestión de pacientes
+• Sistema de turnos online
+• Pantalla de sala de espera
+• Historial básico de pacientes
+• Aviso por voz cuando se llama al paciente
+• Organización por consultorio o profesional
+
+SECTION
+Profesionales que pueden usar este sistema
+
+• Médicos
+• Odontólogos
+• Psicólogos
+• Clínicas privadas
+• Centros médicos
+• Profesionales independientes
+
+SECTION
+Implementación en Itapúa
+
+Trabajamos con profesionales de Itapúa incluyendo Carlos Antonio López, Mayor Otaño y zonas cercanas, brindando soporte local y capacitación básica para el uso del sistema.
+
+BUTTON
+Solicitar asesoría por WhatsApp
+
+CTA SECTION (same as other pages)
+
+¿Listo para digitalizar tu consultorio en Itapúa?
+
+Unite a los más de 50 negocios y profesionales que ya transformaron su gestión con SoftwarePar.
+
+Botones:
+
+Solicitar Cotización Gratis
+Hablar por WhatsApp
+
+Texto inferior:
+
+Soporte local en Carlos Antonio López, Mayor Otaño y alrededores.
+
+---
+
+TASK 3 — CREATE PAGE
+
+Create another page:
+
+/desarrollo-web-en-itapua
+
+Use the SAME layout used in the other pages.
+
+CONTENT (USE EXACT TEXT):
+
+TITLE
+Desarrollo Web Profesional en Itapúa
+
+INTRO TEXT
+Creamos páginas web profesionales para negocios, emprendedores y profesionales en Itapúa. Diseñamos sitios modernos optimizados para atraer clientes y mejorar la presencia digital.
+
+SECTION
+¿Qué incluye el desarrollo web?
+
+• Diseño web moderno y profesional
+• Página optimizada para Google
+• Formulario de contacto y WhatsApp
+• Adaptado para celulares y computadoras
+• Optimización de velocidad
+• Hosting y dominio opcional
+
+SECTION
+Tipos de páginas que desarrollamos
+
+• Páginas para negocios locales
+• Sitios web para consultorios
+• Páginas para emprendedores
+• Landing pages para servicios
+• Catálogos de productos
+
+SECTION
+Desarrollo web en Itapúa
+
+Trabajamos con negocios de Itapúa incluyendo Carlos Antonio López, Mayor Otaño y zonas cercanas, ayudándolos a tener presencia profesional en internet.
+
+BUTTON
+Solicitar información
+
+CTA SECTION (same as other pages)
+
+¿Listo para digitalizar tu negocio en Itapúa?
+
+Unite a los más de 50 negocios y profesionales que ya transformaron su gestión con SoftwarePar.
+
+Botones:
+
+Solicitar Cotización Gratis
+Hablar por WhatsApp
+
+Texto inferior:
+
+Soporte local en Carlos Antonio López, Mayor Otaño y alrededores.
+
+---
+
+TASK 4 — ADD LINKS IN FOOTER
+
+Inside the footer column "Recursos" include these links:
+
+Digitalización de Negocios en Itapúa
+→ /digitalizacion-de-negocios-en-itapua
+
+Facturación Electrónica SIFEN
+→ /facturacion-electronica-sifen-itapua
+
+Sistema de Turnos para Consultorios
+→ /sistema-de-turnos-en-itapua
+
+Software para Consultorios en Itapúa
+→ /software-para-consultorios-en-itapua
+
+Desarrollo Web en Itapúa
+→ /desarrollo-web-en-itapua
+
+---
+
+IMPORTANT
+
+Do NOT modify existing components.
+Do NOT break the layout.
+Reuse the same page template used by the other service pages.

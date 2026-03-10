@@ -1,0 +1,166 @@
+I need you to make VERY SPECIFIC changes to my website.
+
+IMPORTANT:
+Do NOT modify existing styles, layout, spacing, typography, colors, or components.
+Do NOT refactor code.
+Do NOT change the header or footer design except where explicitly requested.
+Only implement the exact changes described below.
+
+--------------------------------------------------
+
+TASK 1 — CREATE TWO NEW SEO PAGES
+
+Create two new pages using the SAME layout, header, footer, components, and styling as the rest of the site.
+
+Pages must integrate perfectly with the current design system.
+
+---------------------------------
+
+PAGE 1
+
+URL:
+ /digitalizacion-de-negocios-en-itapua
+
+SEO Title:
+Digitalización de Negocios en Itapúa | Sistemas y Automatización
+
+Meta description:
+Servicios de digitalización de negocios en Itapúa. Implementamos sistemas de gestión, automatización y herramientas digitales para empresas y emprendedores.
+
+Page content:
+
+H1:
+Digitalización de Negocios en Itapúa
+
+Section:
+
+Ayudamos a negocios y emprendedores de Itapúa a modernizar su gestión con sistemas digitales, automatización de procesos y herramientas tecnológicas adaptadas a cada negocio.
+
+H2:
+¿Qué incluye la digitalización de un negocio?
+
+Bullet list:
+- Sistemas de gestión para negocios
+- Automatización de procesos administrativos
+- Control de clientes y ventas
+- Gestión digital de inventarios
+- Reportes y estadísticas de negocio
+
+H2:
+Negocios que pueden digitalizarse
+
+Bullet list:
+- Comercios
+- Farmacias
+- Ferreterías
+- Clínicas y consultorios
+- Distribuidoras
+- Emprendimientos locales
+
+H2:
+Implementación en Itapúa
+
+Text:
+Trabajamos con negocios de Itapúa, incluyendo Carlos Antonio López, Mayor Otaño y zonas cercanas, brindando soluciones tecnológicas adaptadas a la realidad de cada empresa.
+
+CTA Button text:
+Solicitar asesoría por WhatsApp
+
+---------------------------------
+
+PAGE 2
+
+URL:
+ /facturacion-electronica-sifen-itapua
+
+SEO Title:
+Facturación Electrónica SIFEN en Itapúa | Implementación
+
+Meta description:
+Implementación de facturación electrónica SIFEN en Itapúa para negocios y profesionales. Sistemas compatibles con normativa DNIT.
+
+Page content:
+
+H1:
+Facturación Electrónica SIFEN en Itapúa
+
+Intro text:
+Implementamos sistemas de facturación electrónica compatibles con SIFEN para negocios y profesionales en Itapúa.
+
+H2:
+¿Qué es SIFEN?
+
+Text:
+SIFEN es el Sistema Integrado de Facturación Electrónica de Paraguay administrado por la DNIT. Permite emitir comprobantes electrónicos con validez legal.
+
+H2:
+Nuestros servicios
+
+Bullet list:
+- Implementación de facturación electrónica
+- Integración con sistemas de venta
+- Generación automática de comprobantes
+- Cumplimiento con normativa DNIT
+- Capacitación básica de uso
+
+H2:
+Implementación local en Itapúa
+
+Text:
+Brindamos soporte técnico local para negocios y consultorios de Itapúa que necesiten implementar facturación electrónica.
+
+CTA Button text:
+Solicitar información
+
+--------------------------------------------------
+
+TASK 2 — ADD A FOURTH COLUMN IN THE FOOTER
+
+Current footer columns:
+1 SoftwarePar
+2 Servicios
+3 Contacto
+
+Add a NEW FOURTH COLUMN between "Servicios" and "Contacto".
+
+Column title:
+Recursos
+
+Links:
+
+Digitalización de Negocios en Itapúa
+/digitalizacion-de-negocios-en-itapua
+
+Facturación Electrónica SIFEN
+/facturacion-electronica-sifen-itapua
+
+Sistema de Turnos para Consultorios
+/sistema-turnos-consultorios-itapua
+
+IMPORTANT:
+
+Keep the exact same footer style.
+Do NOT change spacing or typography.
+Do NOT modify responsive behavior.
+Just add the new column matching the current design.
+
+--------------------------------------------------
+
+TASK 3 — BASIC SEO
+
+Ensure both new pages include:
+
+- proper meta title
+- meta description
+- H1
+- structured H2 sections
+
+Do NOT install new packages or libraries.
+
+--------------------------------------------------
+
+SUMMARY
+
+Create two new pages and add one additional column to the footer with internal links.
+
+Do not modify anything else on the website.

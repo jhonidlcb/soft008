@@ -1,0 +1,124 @@
+Fix the SEO titles and descriptions across all pages of the website.
+
+IMPORTANT:
+Currently all pages use the same SEO title and meta description:
+
+<title>Sistema de Turnos Online en Itapúa | SoftwarePar</title>
+
+<meta name="description" content="Sistema de turnos online para consultorios, clínicas y hospitales en Itapúa. Implementamos soluciones digitales en Carlos Antonio López, Mayor Otaño y todo el departamento." />
+
+This causes duplicate SEO metadata and prevents proper indexing in Google.
+
+Do NOT change the design, layout, scripts, fonts, schema JSON or functionality of the website.
+
+Only fix the SEO metadata.
+
+---
+
+TASK 1 — UNIQUE TITLE FOR EACH PAGE
+
+Set a unique <title> for every page.
+
+Home (/)
+
+<title>SoftwarePar | Desarrollo de Software en Paraguay</title>
+
+---
+
+/digitalizacion-de-negocios-en-itapua
+
+<title>Digitalización de Negocios en Itapúa | Automatización Empresarial | SoftwarePar</title>
+
+---
+
+/facturacion-electronica-sifen-itapua
+
+<title>Facturación Electrónica SIFEN en Itapúa | Implementación DNIT | SoftwarePar</title>
+
+---
+
+/sistema-de-turnos-en-itapua
+
+<title>Sistema de Turnos Online para Consultorios en Itapúa | SoftwarePar</title>
+
+---
+
+/software-para-consultorios-en-itapua
+
+<title>Software para Consultorios en Itapúa | Gestión de Pacientes | SoftwarePar</title>
+
+---
+
+/desarrollo-web-en-itapua
+
+<title>Desarrollo Web Profesional en Itapúa | Páginas Web para Empresas | SoftwarePar</title>
+
+---
+
+TASK 2 — UNIQUE META DESCRIPTION PER PAGE
+
+Generate a unique meta description for each page based on its content.
+
+Examples:
+
+Home:
+Empresa de desarrollo de software en Paraguay. Creamos aplicaciones web, sistemas empresariales, facturación electrónica SIFEN y soluciones digitales para negocios en Itapúa.
+
+Digitalización:
+Servicios de digitalización de negocios en Itapúa. Automatizamos procesos empresariales con software a medida para empresas y emprendedores.
+
+Facturación:
+Implementación de facturación electrónica SIFEN en Paraguay. Integración completa para empresas según normativas DNIT.
+
+Turnos:
+Sistema de turnos online para consultorios, clínicas y hospitales en Itapúa. Gestión de citas automática y administración de pacientes.
+
+Consultorios:
+Software para consultorios médicos en Itapúa. Gestión de pacientes, turnos, historial clínico y administración médica.
+
+Desarrollo Web:
+Desarrollo web profesional en Itapúa. Creamos páginas web rápidas, seguras y optimizadas para empresas y emprendedores.
+
+---
+
+TASK 3 — FIX CANONICAL URL
+
+Currently all pages have:
+
+<link rel="canonical" href="https://softwarepar.lat">
+
+This is incorrect.
+
+Each page must have its own canonical URL.
+
+Example:
+
+Home
+
+<link rel="canonical" href="https://softwarepar.lat/">
+
+Digitalización
+
+<link rel="canonical" href="https://softwarepar.lat/digitalizacion-de-negocios-en-itapua">
+
+Facturación
+
+<link rel="canonical" href="https://softwarepar.lat/facturacion-electronica-sifen-itapua">
+
+Turnos
+
+<link rel="canonical" href="https://softwarepar.lat/sistema-de-turnos-en-itapua">
+
+Consultorios
+
+<link rel="canonical" href="https://softwarepar.lat/software-para-consultorios-en-itapua">
+
+Desarrollo Web
+
+<link rel="canonical" href="https://softwarepar.lat/desarrollo-web-en-itapua">
+
+---
+
+GOAL
+
+Eliminate duplicate SEO titles and descriptions so Google can properly index each page and improve search ranking.

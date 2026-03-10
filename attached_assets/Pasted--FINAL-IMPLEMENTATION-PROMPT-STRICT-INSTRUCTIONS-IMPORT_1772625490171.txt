@@ -1,0 +1,130 @@
+✅ FINAL IMPLEMENTATION PROMPT (STRICT INSTRUCTIONS)
+
+IMPORTANT: Follow instructions exactly. Do NOT improvise. Do NOT change existing structure unless explicitly requested.
+
+1️⃣ Create New Route
+
+Create a new route:
+
+/sistema-de-turnos-en-itapua
+
+Use wouter routing in App.tsx.
+
+Create a new component file:
+
+SistemaTurnosItapua.tsx
+2️⃣ Header Requirement (VERY IMPORTANT)
+
+⚠️ DO NOT use the Home header.
+
+Use the SAME header component that is used in:
+
+/terminos
+
+Reason:
+The home header makes the logo disappear on white background.
+The new page has white background, so it MUST use the same header as /terminos to keep logo visibility.
+
+3️⃣ Footer Requirement (MANDATORY)
+
+The page MUST include the same Footer component used on the Home page.
+
+Do NOT omit the footer.
+Do NOT create a new footer.
+Reuse the existing one.
+
+4️⃣ Page Metadata (UNIQUE)
+
+Title:
+Sistema de Turnos Online en Itapúa | SoftwarePar
+
+Meta Description:
+Sistema de turnos online para consultorios, clínicas y hospitales en Itapúa. Implementamos soluciones digitales en Carlos Antonio López, Mayor Otaño y todo el departamento.
+
+Ensure:
+
+Only ONE H1
+
+Correct H2 and H3 structure
+
+Page is indexable
+
+Add this page to sitemap.xml
+
+5️⃣ Page Content (WRITE EXACTLY THIS IN SPANISH)
+
+H1:
+Sistema de Turnos Online en Itapúa para Consultorios y Hospitales
+
+Paragraph:
+En SoftwarePar desarrollamos sistemas de turnos online para consultorios, clínicas y hospitales en Itapúa. Digitalizamos la gestión de pacientes para evitar largas esperas, mejorar la organización y brindar una mejor experiencia tanto al personal como a los pacientes.
+
+H2:
+¿Dónde implementamos nuestro sistema?
+
+Paragraph:
+Trabajamos en todo el departamento de Itapúa, incluyendo Carlos Antonio López, Mayor Otaño, Encarnación y ciudades cercanas.
+
+H2:
+Beneficios del sistema de turnos
+
+Bullet list:
+
+Gestión digital de turnos en tiempo real
+
+Pantalla para sala de espera con número actual
+
+Historial de pacientes
+
+Reducción del tiempo de espera
+
+Organización interna más eficiente
+
+H2:
+Ideal para:
+
+Bullet list:
+
+Consultorios privados
+
+Clínicas médicas
+
+Hospitales públicos
+
+Centros de salud
+
+H2:
+Solicitar información
+
+Paragraph:
+Si tienes un consultorio, clínica o centro de salud en Itapúa y deseas modernizar tu sistema de atención, contáctanos para una demostración.
+
+Add a visible button:
+"Solicitar demostración por WhatsApp"
+
+Link it to the existing WhatsApp contact used on the Home page.
+
+6️⃣ Internal Linking
+
+From the Home page, inside the services section, add a visible internal link with anchor text:
+
+Sistema de Turnos en Itapúa
+
+Link it to:
+
+/sistema-de-turnos-en-itapua
+7️⃣ Technical Constraints
+
+Do NOT modify existing schema markup
+
+Do NOT break existing layout
+
+Do NOT remove any current functionality
+
+Maintain design consistency
+
+Keep white background
+
+Use same spacing style as /terminos page
+
+END OF INSTRUCTIONS
